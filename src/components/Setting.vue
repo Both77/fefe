@@ -51,7 +51,7 @@
         <div class="setting-row">
           <div class="label-info">
             <span class="main-label">High-Contrast Mode</span>
-            <span class="sub-label">Optimized for accessibility</span>
+            
           </div>
           <label class="switch">
             <input type="checkbox" checked disabled>
