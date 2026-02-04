@@ -6,7 +6,7 @@
       <div class="brand">
         <div class="logo-icon">📖</div>
         <h2>Library<span class="accent">Sys</span></h2>
-        <p class="subtitle">Secure Access Portal</p>
+        <p class="subtitle">Secure Access Portals</p>
       </div>
 
       <form @submit.prevent="handleLogin" class="auth-form">
